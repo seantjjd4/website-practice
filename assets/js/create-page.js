@@ -38,3 +38,4 @@ const $select = $("#productCategory");
                         });
 
                 });
+                
